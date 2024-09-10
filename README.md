@@ -1,6 +1,6 @@
 # ✨ About Me:
 
-Welcome to my GitHub profile! I'm a student studying computer science and finance at the University of Michigan -- I enjoy learning about new technologies and working on interesting ideas.
+Hey there! I'm a student studying computer science  at the University of Michigan -- I love working on interesting projects and learning new things!
 
 ---
 
