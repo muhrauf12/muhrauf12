@@ -3,8 +3,8 @@
 <!--
 **muhrauf12/muhrauf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-💫 About Me:
-Welcome to my GitHub profile! I'm a student studying computer science and finance at the University of Michigan -- I enjoy learning about new technologies and working on interesting ideas.
+## 💫 About Me:
+## Welcome to my GitHub profile! I'm a student studying computer science and finance at the University of Michigan -- I enjoy learning about new technologies and working on interesting ## ideas.
 
 💻 Tech Stack:
 C C# C++ CSS3 HTML5 Java JavaScript Python R React NPM Firebase Figma Pandas NumPy PyTorch
